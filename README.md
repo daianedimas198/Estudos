@@ -1,8 +1,5 @@
-
 Projeto de estudos
-  TestLogicas
-  TestDesafios
-  TestHello
-  TestGenerico
-  
-  
+* TestLogicas
+* TestDesafios
+* TestHello
+* TestGenerico
